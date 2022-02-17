@@ -1,2 +1,1 @@
-# Simulacion
 UPS
